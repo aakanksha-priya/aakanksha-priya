@@ -1,16 +1,78 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub
 
-<!--
-**aakanksha-priya/aakanksha-priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.  
+This space reflects my **hands-on work, learning journey, and technical skill development in Data Analytics**, supported by a computer science background and real-world project experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Background
+
+I am a **Computer Science and Engineering graduate** with professional exposure to **data analytics, data pipelines, and backend data services**.
+
+I initially explored **Cyber Security and Digital Forensics**, which helped build a strong foundation in systems, databases, and structured problem-solving. Through academic work, internships, and industry experience, I discovered a stronger interest in **working with data**—cleaning it, querying it, and transforming it into insights that support decision-making.
+
+---
+
+## 🧠 What I Have Worked On
+
+Across professional and project-based work, I have experience with:
+
+- Designing and maintaining **data pipelines** for structured datasets  
+- Data extraction, preprocessing, normalization, and feature engineering  
+- Writing **analytical SQL queries** for reporting and insight generation  
+- Building **backend services** to expose analytical outputs via APIs  
+- Automating data ingestion and processing workflows  
+- Working with real-world, messy data and improving data quality  
+
+---
+
+## 📊 Current Focus
+
+- **Data Analytics**  
+  Strengthening end-to-end analytical skills—from raw data to insights—using real-world datasets.
+
+- **Python & SQL**  
+  Improving efficiency, readability, and analytical depth in data processing and querying.
+
+- **Visualization & Reporting**  
+  Exploring effective ways to communicate insights using dashboards and structured reports.
+
+- **Cloud & Data Systems**  
+  Building a deeper understanding of how analytics workflows run in cloud-based environments.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Programming**
+- Python  
+- SQL  
+
+**Libraries & Frameworks**
+- Pandas  
+- NumPy  
+- FastAPI  
+
+**Tools & Platforms**
+- MS Excel  
+- AWS (foundational services)  
+- Tableau  
+- GitHub  
+
+---
+
+## 🎯 What You’ll Find Here
+
+- Data analytics projects with clear problem statements and structured solutions  
+- SQL queries and Python scripts focused on real-world use cases  
+- Experiments and learning projects as I continue to upskill in analytics  
+
+---
+
+## 📚 Beyond Work
+
+Outside of technical work, I enjoy reading literature and engaging with thoughtful ideas beyond technology.
+
+---
+
+⭐ Feel free to explore my repositories. Feedback and collaboration are welcome.
