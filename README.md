@@ -22,8 +22,9 @@ Across professional and project-based work, I have experience with:
 - Writing **analytical SQL queries** for reporting and insight generation  
 - Building **backend services** to expose analytical outputs via APIs  
 - Automating data ingestion and processing workflows  
-- Working with real-world, messy data and improving data quality  
-
+- Working with real-world, messy data and improving data quality
+  
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,mysql,fastapi,vscode,postman,cloudflare,ai,linux&theme=light)](https://skillicons.dev) -->
 ---
 
 ## 📊 Current Focus
@@ -59,6 +60,9 @@ Across professional and project-based work, I have experience with:
 - Tableau  
 - GitHub  
 
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev)-->
+
 ---
 
 ## 🎯 What You’ll Find Here
@@ -76,3 +80,5 @@ Outside of technical work, I enjoy reading literature and engaging with thoughtf
 ---
 
 ⭐ Feel free to explore my repositories. Feedback and collaboration are welcome.
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakanksha-priya&" alt="aakanksha-priya" /></p> -->
